@@ -1,0 +1,36 @@
+﻿1 // Pre-Apocalypse
+	0 // Release
+		0
+		1
+		2
+		3
+	1 // Clarke
+		0
+	2 // Asimov
+		0
+		1
+		2
+		3
+		4
+		5
+	3 // Heinlein + Leviathans
+		0
+		1
+		2
+	4 // Kennedy
+		0
+		1
+	5 // Banks + Utopia
+		0
+		1
+	6 // Adams
+		0
+		1
+		2
+	8 // Capek + Synthetic Dawn (v1.7 was skipped)
+		0
+		2 // v1.8.1 was skipped
+		3
+	9 // Boulle
+		0
+		1
